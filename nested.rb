@@ -17,7 +17,7 @@ def hopper
      		programmer_hash = [
 					grace_hopper 1,
 					alan_kay 2,
-					dennis_ritchie 3
+					dennis_ritchie 3,
 				]
 
 
