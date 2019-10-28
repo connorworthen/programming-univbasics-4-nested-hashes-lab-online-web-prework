@@ -1,5 +1,6 @@
-
+require "pry"
 def hopper
+	binding.pry 
 	programmer_hash =
  		{
         :grace_hopper => {
@@ -14,12 +15,7 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
         }
-     		programmer_hash = [
-					grace_hopper 1,
-					alan_kay 2,
-					dennis_ritchie 3,
-				]
-
+     		
 
 end
 
